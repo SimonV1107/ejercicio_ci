@@ -32,5 +32,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/SimonV1107/ejercicio_ci/ejemplo-python:${{ github.ref_name }}
-            ghcr.io/SimonV1107/ejercicio_ci/ejemplo-python:latest
+            ghcr.io/simonv1107/ejercicio_ci/ejemplo-python:${{ github.ref_name }}
+            ghcr.io/simonv1107/ejercicio_ci/ejemplo-python:latest
